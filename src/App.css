@@ -1,7 +1,0 @@
-@import "tailwindcss";
-@plugin "daisyui";
-
-.bg-img {
-  background: url("./assets/banner.jpg") no-repeat center center;
-  background-size: cover;
-}
